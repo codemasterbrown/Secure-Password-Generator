@@ -1,0 +1,47 @@
+
+/* Background styling */
+
+body {
+    background-color: #9c9c9c;
+}
+
+/* Headings */
+
+h1 {
+padding-bottom: 20px;
+padding-top: 50px;
+text-align: center;
+}
+
+
+h3 {
+    color: #ce4a5b;
+    font-size: 1.5rem;
+    padding-bottom: 10px;
+}
+
+
+/* Password display textarea */
+
+#password {
+	-webkit-appearance: none;
+	-moz-appearance: none;
+	appearance: none;
+	border: none;
+	display: block;
+	width: 100%;
+	padding-top: 15px;
+	padding-left: 15px;
+	padding-right: 15px;
+	padding-bottom: 85px;
+	font-size: 1.2rem;
+	font-family: 'Courier New', Courier, monospace;
+	font-weight: bold;
+	text-align: center;
+	margin-top: 10px;
+	margin-bottom: 10px;
+	border: 2px dashed #c0c7cf;
+	border-radius: 6px;
+	resize: none;
+	overflow: hidden;
+}
